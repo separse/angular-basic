@@ -20,11 +20,11 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'javabrains-basic'`, () => {
-    const fixture = TestBed.createComponent(AppComponent);
-    const app = fixture.componentInstance;
-    expect(app.title).toEqual('javabrains-basic');
-  });
+  // it(`should have as title 'javabrains-basic'`, () => {
+  //   const fixture = TestBed.createComponent(AppComponent);
+  //   const app = fixture.componentInstance;
+  //   expect(app.title).toEqual('javabrains-basic');
+  // });
 
   it('should render title', () => {
     const fixture = TestBed.createComponent(AppComponent);

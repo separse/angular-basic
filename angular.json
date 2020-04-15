@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "javabrains-basic"
+    }
+  },
+  "defaultProject": "javabrains-basic",
+  "cli": {
+    "analytics": "a8ea51af-6495-487f-8e74-bb4d4172b552"
+  }
 }
